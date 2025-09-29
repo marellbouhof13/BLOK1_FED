@@ -148,6 +148,7 @@ article p {
 article h2 {
     grid-row: 3;
     margin-left: 1.3em;
+    margin-bottom: 1.5em;
 }
 
 /******************************/
