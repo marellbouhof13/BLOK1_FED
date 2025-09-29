@@ -149,6 +149,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   2. De margins en padding op elke section hetzelfde krijgen.
   3. Image als background en de tekst erboven. 
 
+  <img src="./readme-images/grid.png" width="375px" alt="grid met hover">
+  <img src="./readme-images/code1.png" width="375px" alt="code grid met hover">
+  <img src="./readme-images/code2.png" width="375px" alt="code grid met hover">
+
 
   ### Verslag van de meeting
   Dit heb ik allemaal aangepast na feedback uit de meeting:
@@ -208,6 +212,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   1. Het lukte mij niet op css aan te passen van de tweede pagina, terwijl er niks veranderd op de eerste. Ookal zetten in een class op de body van de over ons pagina. Hierdoor heb ik besloten 3 css bestanden aan te maken, ondanks dat dit niet de beste oplossing was. 
   2. Ik vond het soms lastig te zien hoe ik dingen moest maken. Wat voor css er nodig was of het met Javascript moest. Hier heb ik tijdens de lessen gelijk vragen gesteld bij de studentenassistent. Zoals de opmaak van details, vragen over carroussel, etc. 
   3. De header vond ik heel lastig, omdat hij java nodig had en css hover en transition. De laatste feedbacksessie heb ik van half 10 tot 1 gezeten om hier aan te werken en vragen te stellen waar het nodig was aan de studentenassistenten. 
+
+  <img src="./readme-images/header_en_video.png" width="375px" alt="header met video">
+  <img src="./readme-images/hamburger.png" width="375px" alt="hamburger menu">
+  <img src="./readme-images/code3.png" width="375px" alt="code hamburger menu">
+  <img src="./readme-images/code4.png" width="375px" alt="code hamburger menu">
+  <img src="./readme-images/code5.png" width="375px" alt="code hamburger menu">
+  <img src="./readme-images/code6.png" width="375px" alt="code hamburger menu">
+  <img src="./readme-images/code7.png" width="375px" alt="code hamburger menu">
+  <img src="./readme-images/code8.png" width="375px" alt="code hamburger menu">
+  <img src="./readme-images/code9.png" width="375px" alt="code hamburger menu">
+
+
 
 </details>
 
