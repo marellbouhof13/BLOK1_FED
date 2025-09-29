@@ -37,7 +37,12 @@ h1 {
 
 @media (max-width: 800px) {
     h1 {
-        font-size: 4em;
+        font-size: 3em;
+    }
+
+    section:nth-of-type(1) {
+        padding-top: 30em;
+        padding-bottom: em;
     }
 }
 
