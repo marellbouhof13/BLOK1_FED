@@ -84,3 +84,17 @@ window.addEventListener("scroll", () => {
 laadButton.onclick = function () {
   artikelSection.classList.add("toonArtikels");
 };
+
+
+
+// video op pauze
+  var video = document.querySelector("video");
+
+  video.addEventListener("click", () => {
+    if (video.paused) {
+      video.play();
+    } else {
+      video.pause();
+    }
+  });
+

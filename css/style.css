@@ -149,12 +149,20 @@ header.wit ul a {
   color:var(--title-color);
 }
 
+header.wit ul a:hover {
+  color:var(--button-color);
+}
+
 header.wit nav div:nth-of-type(2) a img {
   content:url('../img/Bacardi-Logo-Black.svg');
 }
 
 header.doorzichtig {
   background-color: transparent;
+}
+
+header.doorzichtig ul a:hover{
+  color:var(--button-color);
 }
 
 header button {
