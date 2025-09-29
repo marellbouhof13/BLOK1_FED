@@ -218,7 +218,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="./readme-images/homepagina_final.png" width="375px" alt="uitomst homepagina">
+  <img src="./readme-images/overons_final.png" width="375px" alt="uitomst homepagina">
 
 
   ### Dit ging goed/Heb ik geleerd: 
@@ -265,7 +266,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Bronnenlijst
 
 <details open>
-  <summary>continu bijhouden terwijl je werkt</summary>
+  <summary>Bronnenlijst</summary>
 
   1. Veel kleine dingen opgezocht op https://developer.mozilla.org/en-US/, dit heb ik niet alleen opgeslagen (sorry, ik was dan helemaal in werkmodus)
   3. flex-wrap: https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap
@@ -278,6 +279,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   10. over ons pagina: https://blog.pixelfreestudio.com/using-css-grid-and-flexbox-together-best-practices/
   11. carrousel: https://codepen.io/shooft/pen/QwjQGZe
   12. hamburger menu: https://codepen.io/shooft/pen/myepoJo
-  
+
 
 </details>
