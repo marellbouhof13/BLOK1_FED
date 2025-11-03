@@ -81,7 +81,8 @@ window.addEventListener("scroll", () => {
 
 
 // laad button over ons pagina
-laadButton.onclick = function () {
+if (window.location.pathname === "/" || window.location.pathname.endsWith("/overons.html"))
+  laadButton.onclick = function () {
   artikelSection.classList.add("toonArtikels");
 };
 
